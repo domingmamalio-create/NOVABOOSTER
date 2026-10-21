@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Drayvokz Booster</string>
+    <string name="title">DRAYVOKZ BOOSTER</string>
+    <string name="subtitle">boost · clean · panel</string>
+    <string name="kill_bg">KILL BACKGROUND</string>
+    <string name="clean_cache">CLEAN CACHE</string>
+    <string name="start_panel">START FLOATING PANEL</string>
+    <string name="stop_panel">STOP FLOATING PANEL</string>
+</resources>
